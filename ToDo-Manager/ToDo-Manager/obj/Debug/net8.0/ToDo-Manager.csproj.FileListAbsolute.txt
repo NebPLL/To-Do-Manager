@@ -1,0 +1,15 @@
+C:\Users\Neb\Documents\Alle Ordner\BBB\Projects\To-Do-Manager\ToDo-Manager\ToDo-Manager\bin\Debug\net8.0\ToDo-Manager.exe
+C:\Users\Neb\Documents\Alle Ordner\BBB\Projects\To-Do-Manager\ToDo-Manager\ToDo-Manager\bin\Debug\net8.0\ToDo-Manager.deps.json
+C:\Users\Neb\Documents\Alle Ordner\BBB\Projects\To-Do-Manager\ToDo-Manager\ToDo-Manager\bin\Debug\net8.0\ToDo-Manager.runtimeconfig.json
+C:\Users\Neb\Documents\Alle Ordner\BBB\Projects\To-Do-Manager\ToDo-Manager\ToDo-Manager\bin\Debug\net8.0\ToDo-Manager.dll
+C:\Users\Neb\Documents\Alle Ordner\BBB\Projects\To-Do-Manager\ToDo-Manager\ToDo-Manager\bin\Debug\net8.0\ToDo-Manager.pdb
+C:\Users\Neb\Documents\Alle Ordner\BBB\Projects\To-Do-Manager\ToDo-Manager\ToDo-Manager\obj\Debug\net8.0\ToDo-Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neb\Documents\Alle Ordner\BBB\Projects\To-Do-Manager\ToDo-Manager\ToDo-Manager\obj\Debug\net8.0\ToDo-Manager.AssemblyInfoInputs.cache
+C:\Users\Neb\Documents\Alle Ordner\BBB\Projects\To-Do-Manager\ToDo-Manager\ToDo-Manager\obj\Debug\net8.0\ToDo-Manager.AssemblyInfo.cs
+C:\Users\Neb\Documents\Alle Ordner\BBB\Projects\To-Do-Manager\ToDo-Manager\ToDo-Manager\obj\Debug\net8.0\ToDo-Manager.csproj.CoreCompileInputs.cache
+C:\Users\Neb\Documents\Alle Ordner\BBB\Projects\To-Do-Manager\ToDo-Manager\ToDo-Manager\obj\Debug\net8.0\ToDo-Manager.sourcelink.json
+C:\Users\Neb\Documents\Alle Ordner\BBB\Projects\To-Do-Manager\ToDo-Manager\ToDo-Manager\obj\Debug\net8.0\ToDo-Manager.dll
+C:\Users\Neb\Documents\Alle Ordner\BBB\Projects\To-Do-Manager\ToDo-Manager\ToDo-Manager\obj\Debug\net8.0\refint\ToDo-Manager.dll
+C:\Users\Neb\Documents\Alle Ordner\BBB\Projects\To-Do-Manager\ToDo-Manager\ToDo-Manager\obj\Debug\net8.0\ToDo-Manager.pdb
+C:\Users\Neb\Documents\Alle Ordner\BBB\Projects\To-Do-Manager\ToDo-Manager\ToDo-Manager\obj\Debug\net8.0\ToDo-Manager.genruntimeconfig.cache
+C:\Users\Neb\Documents\Alle Ordner\BBB\Projects\To-Do-Manager\ToDo-Manager\ToDo-Manager\obj\Debug\net8.0\ref\ToDo-Manager.dll
